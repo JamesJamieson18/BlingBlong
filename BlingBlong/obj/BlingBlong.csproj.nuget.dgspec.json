@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\BlingBlong!\\BlingBlong\\BlingBlong.csproj": {}
+    "C:\\Projects\\BlingBlong!\\blingblong\\BlingBlong.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\BlingBlong!\\BlingBlong\\BlingBlong.csproj": {
+    "C:\\Projects\\BlingBlong!\\blingblong\\BlingBlong.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\BlingBlong!\\BlingBlong\\BlingBlong.csproj",
+        "projectUniqueName": "C:\\Projects\\BlingBlong!\\blingblong\\BlingBlong.csproj",
         "projectName": "BlingBlong",
-        "projectPath": "C:\\Projects\\BlingBlong!\\BlingBlong\\BlingBlong.csproj",
+        "projectPath": "C:\\Projects\\BlingBlong!\\blingblong\\BlingBlong.csproj",
         "packagesPath": "C:\\Users\\diamo\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\BlingBlong!\\BlingBlong\\obj\\",
+        "outputPath": "C:\\Projects\\BlingBlong!\\blingblong\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diamo\\AppData\\Roaming\\NuGet\\NuGet.Config"
