@@ -1,0 +1,16 @@
+C:\Projects\BlingBlong!\blingblong\bin\Debug\net5.0\BlingBlong.exe
+C:\Projects\BlingBlong!\blingblong\bin\Debug\net5.0\BlingBlong.deps.json
+C:\Projects\BlingBlong!\blingblong\bin\Debug\net5.0\BlingBlong.runtimeconfig.json
+C:\Projects\BlingBlong!\blingblong\bin\Debug\net5.0\BlingBlong.runtimeconfig.dev.json
+C:\Projects\BlingBlong!\blingblong\bin\Debug\net5.0\BlingBlong.dll
+C:\Projects\BlingBlong!\blingblong\bin\Debug\net5.0\ref\BlingBlong.dll
+C:\Projects\BlingBlong!\blingblong\bin\Debug\net5.0\BlingBlong.pdb
+C:\Projects\BlingBlong!\blingblong\obj\Debug\net5.0\BlingBlong.csproj.AssemblyReference.cache
+C:\Projects\BlingBlong!\blingblong\obj\Debug\net5.0\BlingBlong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BlingBlong!\blingblong\obj\Debug\net5.0\BlingBlong.AssemblyInfoInputs.cache
+C:\Projects\BlingBlong!\blingblong\obj\Debug\net5.0\BlingBlong.AssemblyInfo.cs
+C:\Projects\BlingBlong!\blingblong\obj\Debug\net5.0\BlingBlong.csproj.CoreCompileInputs.cache
+C:\Projects\BlingBlong!\blingblong\obj\Debug\net5.0\BlingBlong.dll
+C:\Projects\BlingBlong!\blingblong\obj\Debug\net5.0\ref\BlingBlong.dll
+C:\Projects\BlingBlong!\blingblong\obj\Debug\net5.0\BlingBlong.pdb
+C:\Projects\BlingBlong!\blingblong\obj\Debug\net5.0\BlingBlong.genruntimeconfig.cache
