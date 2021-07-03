@@ -1,5 +1,6 @@
 ﻿using System;
 using GameSpace;
+using Calculations;
 
 namespace MainSpace
 {
@@ -8,7 +9,11 @@ namespace MainSpace
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
             BlingBlong.Game();
+            
+            Sum newSum = new Sum(8);
+            newSum.Calculate();
         }
     }
 }
